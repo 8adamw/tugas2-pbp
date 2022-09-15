@@ -1,3 +1,8 @@
+# Tugas 2 PBP
+## Virtual Environment
+
+Sebuah aplikasi Django bisa saja dibuat tanpa menggunakan virtual environment. Namun penggunaan virtual environment sangat direkomendasikan untuk pengembangan aplikasi Django. Dengan menggunakan env, dapat lebih mudah untuk memisahkan antara proyek, karena setiap proyek bisa saja memiliki versi Django atau Python yang berbeda. Penggunaan env menghindari konflik versi ini karena setiap proyek berada di environment berbeda.
+
 # Template Proyek Django PBP
 
 Pemrograman Berbasis Platform (CSGE602022) - diselenggarakan oleh Fakultas Ilmu Komputer Universitas Indonesia, Semester Ganjil 2022/2023

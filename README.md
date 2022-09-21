@@ -1,6 +1,21 @@
+# Tugas 3 PBP
+
+https://adam-pbp.herokuapp.com/
+
+## Perbedaan JSON, XML dan HTML
+
+JSON, XML dan HTML merupakan tiga format language yang dapat digunakan untuk memindahkan atau menyimpan data.XML dan HTML adalah contoh dari markup language, yang berarti bahwa isi ditulis menggunakan simbol-simbol atau kata kunci untuk keperluan struktur dokumen. Simbol atau kata kunci digunakan untuk menandakan struktur yang digunakan. 
+
+## Mengapa Data Delivery Penting dalam Pengembangan Aplikasi
+
+Data delivery yang handal dapat dikatakan sudah menjadi sebuah keharusan dalam pengembangan sebuah aplikasi yang berbasis web. Web a
+
+## Implementasi Untuk Tugas 3
+
 # Tugas 2 PBP
 
 https://adam-pbp.herokuapp.com/
+
 ## Virtual Environment
 
 Sebuah aplikasi Django bisa saja dibuat tanpa menggunakan virtual environment. Namun penggunaan virtual environment sangat direkomendasikan untuk pengembangan aplikasi Django. Dengan menggunakan env, dapat lebih mudah untuk memisahkan antara proyek, karena setiap proyek bisa saja memiliki versi Django atau Python yang berbeda. Penggunaan env menghindari konflik versi ini karena setiap proyek berada di environment berbeda.

@@ -1,6 +1,18 @@
-# Tugas 3 PBP
+# Tautan Heroku App
 
 https://adam-pbp.herokuapp.com/
+
+# Tugas 4 PBP
+
+## CSRF Token
+
+Salah satu serangan yang dapat terjadi ke sebuah web app adalah CSRF (Cross-Site Request Forgery). Serangan CSRF adalah serangan yang umumnya menggunakan hyperlink yang berisi HTTP request didalamnya. User ditipu untuk mengklik hyperlink ini, dan request yang tidak diinginkan pengguna terjadi. Dengan menggunakan CSRF token, serangan CSRF dapat dihindari, karena token berisi angka acak yang di-generate server-side, sehingga request palsu dapat diblokir oleh web app.
+
+## Alur Data
+
+Secara umum di HTML, informasi yang dimasukkan ke form dan dikirim ke server merupakan sebuah request POST. Setelah request dikirimkan, server menerima POST yang berisi informasi yang dikirimkan ke user.
+
+# Tugas 3 PBP
 
 ## Perbedaan JSON, XML dan HTML
 
@@ -13,8 +25,6 @@ Data delivery yang handal dapat dikatakan sudah menjadi sebuah keharusan dalam p
 ## Implementasi Untuk Tugas 3
 
 # Tugas 2 PBP
-
-https://adam-pbp.herokuapp.com/
 
 ## Virtual Environment
 
